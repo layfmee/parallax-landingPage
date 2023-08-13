@@ -115,7 +115,7 @@ body{
     border: rgb(255 255 255 / .4) 3px solid;
     outline: none;
     cursor: pointer;
-}
+} /*чекс */
 
 .layer-4, .layer-5, .layer-6 {
     pointer-events: none; /*Если слои мешают работе кнопки, то мы можем так убрать проблему,
